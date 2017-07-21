@@ -3,8 +3,10 @@ BlueHack 2017
 
 
 
-A proof-of-concept of Augmented Reality with HTML5 sketching app.
+A proof-of-concept of Augmented Reality overlay drawing app.
 
+See the video here : 
+https://www.youtube.com/watch?v=yf0yor6f4ao
 
 ## Installation
 
